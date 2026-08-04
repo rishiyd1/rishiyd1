@@ -1,23 +1,6 @@
 ✨
-V2 Available Now!Redesigned UI · More features · Faster performance
-Upgrade to V2 →
-✕
-github profile markdown generator logo
-GitHub Profile README Generator
-Star this repo
-24379
-Fork on GitHub
-8383
 
-back to edit
 
-copy-markdown
-
-download markdown
-
-download backup
-
-markdown
 <h1 align="center">Hi 👋, I'm Rishi</h1>
 <h3 align="center">Full Stack Developer | AI Enthusiast | Competitive Programmer Building scalable full-stack applications and AI-powered solutions. Passionate about Backend Development, System Design, RAG, and DSA.</h3>
 
