@@ -170,25 +170,16 @@ Python • LangChain • FAISS • Ollama • Groq • Streamlit
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=rishiyd1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&cache_seconds=1800"
-    alt="Rishi's GitHub Stats"
-  />
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishiyd1&show_icons=true&theme=tokyonight"
+       alt="GitHub Stats"/>
 
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishiyd1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=1800"
-    alt="Top Languages"
-  />
+  <img height="170"
+       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishiyd1&layout=compact&theme=tokyonight"
+       alt="Top Languages"/>
 </p>
 
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com?user=rishiyd1&theme=tokyonight&hide_border=true"
-    alt="GitHub Streak"
-  />
-</p>
+
 
 ---
 
@@ -202,13 +193,6 @@ Python • LangChain • FAISS • Ollama • Groq • Streamlit
 </p>
 ---
 
-# 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rishiyd1&theme=tokyonight&no-frame=true&column=4"/>
-
-</p>
 
 ---
 
@@ -238,6 +222,6 @@ Python • LangChain • FAISS • Ollama • Groq • Streamlit
 
 <p align="center">
 
-⭐ If you like my work, consider giving a ⭐ to my repositories!
+
 
 </p>
