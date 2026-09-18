@@ -167,30 +167,10 @@ Python • LangChain • FAISS • Ollama • Groq • Streamlit
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img height="170"
-       src="https://github-readme-stats-sigma-five.vercel.app/api?username=rishiyd1&show_icons=true&theme=tokyonight"
-       alt="GitHub Stats"/>
-
-  <img height="170"
-       src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=rishiyd1&layout=compact&theme=tokyonight"
-       alt="Top Languages"/>
-</p>
 
 
 
----
 
-## 📈 Contribution Graph
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=rishiyd1&theme=tokyo-night&hide_border=true"
-    alt="Contribution Graph"
-  />
-</p>
 ---
 
 
