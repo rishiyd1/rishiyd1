@@ -171,10 +171,7 @@ Python • LangChain • FAISS • Ollama • Groq • Streamlit
 
 
 
----
 
-
----
 
 # 📫 Connect With Me
 
