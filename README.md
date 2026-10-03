@@ -1,204 +1,106 @@
-<h1 align="center">Hi 👋, I'm Rishi</h1>
+# 👋 Hi, I'm Rishi
 
-<h3 align="center">
-Full Stack Developer • Backend Developer • AI Enthusiast • Competitive Programmer
-</h3>
+💻 Software Developer | Full Stack Developer
 
-<p align="center">
-Building scalable backend systems, AI-powered applications, and solving real-world problems through code.
-</p>
-
-<p align="center">
-<a href="https://portfolio-orcin-seven-68.vercel.app/" target="_blank">
-<img src="https://img.shields.io/badge/🌐 Portfolio-Visit-blue?style=for-the-badge"/>
-</a>
-
-<a href="https://www.linkedin.com/in/rishiy05/" target="_blank">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:risydv321@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://leetcode.com/u/rishiy21/" target="_blank">
-<img src="https://img.shields.io/badge/LeetCode-Profile-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-</a>
-
-</p>
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=rishiyd1&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
+Currently working on building scalable applications, backend systems, and data-driven projects.
 
 ---
 
-# 👨‍💻 About Me
+## 🌐 Socials
 
-🎓 B.Tech in Instrumentation & Control Engineering @ NIT Jalandhar
-
-💻 Full Stack Developer passionate about scalable backend development
-
-🤖 Building AI-powered applications using RAG & LLMs
-
-🚀 Exploring Distributed Systems, Docker, Kubernetes & AWS
-
-⚡ Strong interest in System Design and High Performance Backend
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishiy05/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishiyd1)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishiy21/)
 
 ---
 
-# 🚀 Currently Learning
+## 💻 Tech Stack
 
-- Docker
-- Kubernetes
-- AWS
-- CI/CD
-- Microservices
-- Advanced System Design
+### Languages
 
----
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 
-# 💻 Languages
+### Frontend
 
-<p align="center">
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
 
-<img src="https://skillicons.dev/icons?i=cpp,c,python,javascript,typescript,html,css"/>
+### Backend
 
-</p>
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
----
+### Databases
 
-# ⚙️ Frontend
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
 
-<p align="center">
+### Tools & Technologies
 
-<img src="https://skillicons.dev/icons?i=react,tailwind,nextjs"/>
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-</p>
+### Cloud & Deployment
 
----
-
-# ⚡ Backend
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=nodejs,express"/>
-
-</p>
-
----
-
-# 🗄️ Databases
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,redis"/>
-
-</p>
-
----
-
-# ☁️ DevOps & Cloud
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=docker,aws,azure,git,github,linux,nginx,vercel"/>
-
-</p>
-
----
-
-# 🤖 AI / ML
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=python,pytorch"/>
-
-</p>
-
-<p align="center">
-
-<b>LangChain</b> •
-<b>FAISS</b> •
-<b>RAG</b> •
-<b>Ollama</b> •
-<b>Groq</b> •
-<b>Streamlit</b>
-
-</p>
-
----
-
-# 🚀 Featured Projects
-
-## 🛒 SwapKr
-
-Campus Marketplace Platform
-
-- College Email Authentication
-- PostgreSQL Database
-- Redis Caching
-- Real-time Chat
-- Socket.IO
-- BullMQ Email Queue
-- Cloudinary Integration
-
-**Tech Stack**
-
-React • Node.js • Express • PostgreSQL • Redis • Socket.IO
-
----
-
-## 🤖 AI Lawyer
-
-LLM-powered legal assistant using Retrieval-Augmented Generation.
-
-**Features**
-
-- PDF Chat
-- Semantic Search
-- Vector Database
-- Local LLM
-- Context-aware Responses
-
-**Tech**
-
-Python • LangChain • FAISS • Ollama • Groq • Streamlit
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![DigitalOcean](https://img.shields.io/badge/DigitalOcean-0080FF?style=for-the-badge&logo=digitalocean&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 ---
 
 
+## 📊 GitHub Stats
 
-
-
-
-
-# 📫 Connect With Me
-
-<p align="center">
-
-<a href="https://www.linkedin.com/in/rishiy05">
-<img src="https://skillicons.dev/icons?i=linkedin"/>
-</a>
-
-<a href="mailto:risydv321@gmail.com">
-<img src="https://skillicons.dev/icons?i=gmail"/>
-</a>
-
-<a href="https://portfolio-orcin-seven-68.vercel.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit-success?style=for-the-badge"/>
-</a>
-
-<a href="https://leetcode.com/u/rishiy21/">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge"/>
-</a>
-
-</p>
+![Rishi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rishiyd1&show_icons=true&theme=dark&hide_border=false&count_private=true)
 
 ---
 
-<p align="center">
+## 🔥 GitHub Streak
 
+![Rishi's GitHub Streak](https://streak-stats.demolab.com?user=rishiyd1&theme=dark&hide_border=false)
 
+---
 
-</p>
+## 📈 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=rishiyd1&layout=compact&theme=dark&hide_border=false&langs_count=8)
+
+---
+
+## 🧠 Coding Profiles
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishiy21/)
+
+---
+
+## 📫 Connect With Me
+
+I'm always interested in discussing software development, data engineering,
+system design, and interesting technical projects.
+
+### Let's Connect 👇
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rishi-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rishiy05/)
+
+[![GitHub](https://img.shields.io/badge/GitHub-rishiyd1-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rishiyd1)
+
+[![LeetCode](https://img.shields.io/badge/LeetCode-rishiy21-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishiy21/)
+
+---
+
+⭐️ From [Rishi](https://github.com/rishiyd1)
