@@ -69,11 +69,7 @@ Currently working on building scalable applications, backend systems, and data-d
 
 ---
 
-## 🧠 Coding Profiles
 
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/rishiy21/)
-
----
 
 
 
